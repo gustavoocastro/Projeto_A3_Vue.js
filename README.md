@@ -20,6 +20,8 @@ ODS 3, Meta 3.4: Reduzir doenças não transmissíveis por meio da prevenção e
 - Visualização de estatísticas semanais
 - Ações rápidas para outras seções
 
+<img width="1389" height="859" alt="image" src="https://github.com/user-attachments/assets/71b5ae77-5cd4-4d07-96df-d04af1e11f93" />
+
 ### 2. Rastreador de Hábitos
 - Registro de água consumida (litros)
 - Registro de horas de sono
