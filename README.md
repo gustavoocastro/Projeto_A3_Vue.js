@@ -2,7 +2,7 @@
 # Saúde+ - Aplicativo Educacional de Saúde
 
 ## Visão Geral
-Aplicativo web educacional desenvolvido com Vue.js 3 focado em promover hábitos saudáveis e prevenir doenças não transmissíveis, alinhado com a ODS 3.4 (Objetivo de Desenvolvimento Sustentável 3, meta 3.4).
+Aplicativo web educacional desenvolvido com Vue.js 3 focado em promover hábitos saudáveis e prevenir doenças não transmissíveis, alinhado com a ODS 3.4.
 
 ## Objetivo
 Educar usuários com dicas de saúde e controle básico de hábitos diários.
