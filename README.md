@@ -30,6 +30,8 @@ ODS 3, Meta 3.4: Reduzir doenças não transmissíveis por meio da prevenção e
 - Visualização de hábitos do dia
 - Metas diárias recomendadas
 
+<img width="1387" height="861" alt="image" src="https://github.com/user-attachments/assets/e7bb018e-4fc5-4631-8597-87294eac9158" />
+
 ### 3. Conteúdo Educacional
 - Biblioteca de artigos sobre saúde
 - Categorias: Prevenção, Nutrição, Exercícios, Saúde Mental
@@ -39,6 +41,8 @@ ODS 3, Meta 3.4: Reduzir doenças não transmissíveis por meio da prevenção e
   - Saúde Mental e Bem-estar
   - Nutrição Balanceada
   - Atividade Física Regular
+ 
+<img width="1386" height="861" alt="image" src="https://github.com/user-attachments/assets/9e0a9589-eb24-4b21-a90a-e5e3969196ab" />
 
 ### 4. Visualização de Progresso
 - Gráficos interativos com Chart.js
@@ -46,12 +50,16 @@ ODS 3, Meta 3.4: Reduzir doenças não transmissíveis por meio da prevenção e
 - Barras de progresso em relação às metas
 - Resumo de metas ativas e concluídas
 
+<img width="1389" height="860" alt="image" src="https://github.com/user-attachments/assets/dcbd814c-dae0-4771-947c-d3b472e5c8f9" />
+
 ### 5. Sistema de Metas
 - Criação de metas personalizadas de saúde
 - Categorização por tipo (água, sono, exercício, nutrição, mental)
 - Data alvo para alcançar metas
 - Marcação de metas como concluídas
 - Gerenciamento completo (criar, editar, deletar)
+
+<img width="1387" height="861" alt="image" src="https://github.com/user-attachments/assets/d2c8c881-8b01-4eb8-a4fe-07d458ccbdad" />
 
 ## Stack Tecnológico
 
